@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # calculator_in_zsh
 Learning shell scripting, making a calculator
 =======
@@ -23,4 +22,3 @@ Reads the num_ops.txt lines, and performs ./calculator.sh for each line, and wri
 
 #### Usage:
 ./testing.sh
->>>>>>> master
