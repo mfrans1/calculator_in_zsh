@@ -1,6 +1,3 @@
-# calculator_in_zsh
-Learning shell scripting, making a calculator
-=======
 # Learning the basics of shell scripting
 
 Used this as a learning project, created a calculator using zsh. Can do basic operations (+, -, /, *) between two numbers with 5 decimal place precision. Note that the whole project can be condensed efficiently into one pipeline, I opted to have things seperated just so I can practice more (generating files, writing to files, reading from files etc).
